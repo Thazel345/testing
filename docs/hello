@@ -1,0 +1,42 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="demostyle.css">
+ <title> Tony Hazel </title>   
+</head>
+<Body>
+<h1>MY SITE</h1>
+    <!-- Getting to know some info about me -->
+<P>Hi my name is Tony, I am originally from Joliet Illinois
+    <br><img src="https://www.bestplaces.net/images/city/joliet_il.gif" alt="joliet">
+    <br>Where I went to Joliet Junior College
+    <br><img src="http://c-8oqtgrjgwu46x24yyyx2evtdkoix2eeqo.g00.chicagotribune.com/g00/3_c-8yyy.ejkeciqvtkdwpg.eqo_/c-8OQTGRJGWU46x24jvvrx3ax2fx2fyyy.vtdkoi.eqox2fkoi-7986139fx2fvwtdkpgx2fev-uvc-lle-ytguvnkpi-uv-2734-42382733-223x2f3246x2f3246z798x3fk32e.octmx3dkocig_$/$/$/$/$/$" alt="jjc" height="200"> <br>and got my Associates degree in General Science with a focus in Biology.
+    <br><img src="http://cdn.biologydiscussion.com/wp-content/uploads/2016/08/image_thumb-242.png" alt="paramecium" height"200"></P>
+    <!-- Basic list -->
+    <h2><i>Some of My Favorite Things</i></h2>
+    <h3 style="background-color: green">My favorite color: Green</h3>
+    <h6>Favorite Animal: Elephants</h6>
+    <img src="http://assets.worldwildlife.org/photos/11048/images/story_full_width/rsz_namibia_will_burrard_lucas_wwf_us_2.jpg?1461768823" alt="Elephant" height="200">
+    <h3>Favorite Food: Pizza</h3>
+    <h2><b>One of my favorite things to do is to travel. Some of my favorite places I have been are..</b></h2>
+    <!-- list with links -->
+    <ul>
+        <li><a href="http://www.barharborinfo.com/">Bar Harbor, Maine</a></li>
+        <li><a href="https://www.discoverlosangeles.com/">Los Angeles</a></li>
+        <li><a href="https://www.nycgo.com/">New York City</a></li>
+        <li><a href="https://www.nps.gov/muwo/index.htm">Muir Woods, California</a></li></ul>
+    <br>
+        <form method="post" action="https://www.google.com">
+            <label>what is your favorite color?: </label>
+                <input type="text" name="firstname">
+            <input type="submit" value="submit"/>  
+    </form>
+    <table border=10>
+        <!-- table -->
+    <tr><td><h1>One of my Favorite Animals is the Turtle</h1>
+        <ol><li>Can grow to be 8in long.</li>
+        <li>They are most active during the day.</li>
+        <li>They are omnivores</li></ol>
+       </td><td><img src="turtle.jpg" alt="turtle" width="100" /></td></tr>
+     </table>
+    </Body>
+</html>
